@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/EarthquakeMap-React/static/css/main.08741d65.css",
+    "main.js": "/EarthquakeMap-React/static/js/main.86d8e4b3.js",
+    "index.html": "/EarthquakeMap-React/index.html",
+    "main.08741d65.css.map": "/EarthquakeMap-React/static/css/main.08741d65.css.map",
+    "main.86d8e4b3.js.map": "/EarthquakeMap-React/static/js/main.86d8e4b3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08741d65.css",
+    "static/js/main.86d8e4b3.js"
+  ]
+}
