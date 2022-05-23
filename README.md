@@ -4,7 +4,7 @@ This is a React App that visualize earthquakes data from USGS API on a map and u
 
 The online App is available here:
 
-https://Mah-Kh.github.io/EarthquakeMap_React
+https://Mah-Kh.github.io/EarthquakeMap-React
 
 ## Features
 
