@@ -8,7 +8,7 @@ const App = () => {
     <DataContextProvide>
       <div className="countainer-lg">
         <div className="row">
-          <div className="col-lg-4">
+          <div className="col-lg-4 filter-form">
             <Filter />
           </div>
           <div className="col-lg-8 map-container">

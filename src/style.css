@@ -140,3 +140,26 @@ form label {
 .mapboxgl-popup-content > h3 {
   font-size: 1rem;
 }
+
+@media screen and (max-width: 992px) {
+  #root {
+    overflow: visible;
+  }
+  .filter-form {
+    order: 2;
+  }
+  .map-container {
+    order: 1;
+  }
+  .countainer-lg .row {
+    height: auto;
+    overflow-y: auto;
+  }
+  .map-container {
+    height: 70vh;
+  }
+  .map-info {
+    top: 10px;
+    left: 10px;
+  }
+}
